@@ -96,3 +96,6 @@ scores: {
 
 ## References
 * [pytorch implementation of "Get To The Point: Summarization with Pointer-Generator Networks"](https://github.com/atulkum/pointer_summarizer)
+
+## Credits
+https://github.com/rohithreddy024/Text-Summarizer-Pytorch
